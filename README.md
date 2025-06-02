@@ -1,5 +1,5 @@
-# cellranger-toolkit
-toolkit for 10Xgenomics cellranger
+# CytoKit
+Toolkit for single cell analysis.
 
-## From HTML report to Plain Text
-customize your own report by plain text.
+## ReportParser
+Once the report is parsed, users have the flexibility to tailor the content as needed.
