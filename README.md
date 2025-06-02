@@ -1,4 +1,4 @@
-# CytoKit
+# CytoX
 Toolkit for single cell analysis.
 
 # Features
